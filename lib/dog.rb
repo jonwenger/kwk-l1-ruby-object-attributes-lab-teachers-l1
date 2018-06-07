@@ -2,6 +2,8 @@
 
 class Dog
   
+  attr_accesor 
+  
   def name=(dogs_name)
     @name = dogs_name
   end 
