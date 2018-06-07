@@ -2,7 +2,7 @@
 
 class Dog
   
-  attr_accesor 
+  attr_accessor :author, :page_count, :genre
   
   
   def name=(dogs_name)
